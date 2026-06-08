@@ -29,7 +29,8 @@
 - **AUC Score:** (본인의 AUC 수치 입력)
 
 ## 📂 프로젝트 구조
-(위의 파일 목록 유지)
+<img width="903" height="997" alt="image" src="https://github.com/user-attachments/assets/a0ec7a7f-8f95-47bb-bc16-3299b4cf479d" />
+
 
 ## ⚙️ 실행 방법
 본 프로젝트를 로컬 환경에서 실행하려면 아래 절차를 따라주세요.
