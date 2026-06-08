@@ -29,7 +29,8 @@
 - **AUC Score:** (본인의 AUC 수치 입력)
 
 ## 📂 프로젝트 구조
-<img width="903" height="997" alt="image" src="https://github.com/user-attachments/assets/a0ec7a7f-8f95-47bb-bc16-3299b4cf479d" />
+<img width="897" height="372" alt="image" src="https://github.com/user-attachments/assets/83ddfed9-b884-4373-9890-3666b280e6e4" />
+
 
 
 ## ⚙️ 실행 방법
