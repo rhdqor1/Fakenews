@@ -32,8 +32,15 @@
 (위의 파일 목록 유지)
 
 ## ⚙️ 실행 방법
-(위의 실행 방법 유지)
+본 프로젝트를 로컬 환경에서 실행하려면 아래 절차를 따라주세요.
 
+### 1. 저장소 클론 및 환경 설정
+터미널(또는 CMD)에서 프로젝트를 저장할 폴더로 이동한 뒤, 아래 명령어를 순서대로 입력합니다.
+# 1. 저장소 클론
+git clone [https://github.com/rhdqor1/Fakenews.git](https://github.com/rhdqor1/Fakenews.git)
+cd Fakenews
+# 2. 필수 라이브러리 설치
+pip install -r requirements.txt
 ## 📁 대용량 파일 다운로드
 아래 구글 드라이브에서 다운로드 후 프로젝트 폴더에 넣어주세요.
 
@@ -43,6 +50,9 @@
 | fake_news_lstm_model.h5 | [다운로드](https://drive.google.com/file/d/1ixIPxEpIYoY5-cNUbOz2DLwywu03r1my/view?usp=sharing) |
 | tokenizer.pkl | [다운로드](https://drive.google.com/file/d/1Xc-1DT3gQ7XzHyB3vaFKLh1r2zR7LBax/view?usp=sharing) |
 
+##3. 웹 대시보드 실행
+준비가 완료되었다면, 터미널에서 다음 명령어를 입력하여 대시보드를 실행합니다.
+streamlit run add.py
 ---
 ## 👨‍💻 개발자
 - **Name:** Heo Jun-seong (허준성)
