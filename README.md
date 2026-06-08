@@ -2,7 +2,7 @@
 
 딥러닝(LSTM)과 자연어 처리(NLP) 기법을 활용하여 뉴스 기사의 진위 여부를 판별하는 프로젝트입니다.
 
-![Dashboard]<img width="682" height="371" alt="image" src="https://github.com/user-attachments/assets/b07ceb17-3762-4bac-a11c-bb53fe1ca4c4" />
+![Dashboard]
 <img width="682" height="371" alt="image" src="https://github.com/user-attachments/assets/b38bac6b-9770-4643-82ca-351f06d46017" />
 
 
@@ -14,7 +14,7 @@
 ### 1. 데이터 분석(EDA)
 뉴스 기사의 어휘 가중치(TF-IDF)와 길이 분포를 시각화하여 데이터의 특성을 파악했습니다.
 
-![EDA Graph](images/eda_graph.png)
+![EDA Graph]
 
 ### 2. 성능 평가
 모델의 예측 성능을 혼동 행렬(Confusion Matrix)과 ROC 커브를 통해 검증했습니다.
